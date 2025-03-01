@@ -1,0 +1,14 @@
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Desktop\C#\Tarea 3\Toniestarc\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

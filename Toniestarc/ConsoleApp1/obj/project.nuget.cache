@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ux/1XBiBZvg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\Desktop\\C#\\Tarea 3\\Toniestarc\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
